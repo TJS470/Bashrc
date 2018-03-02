@@ -1,5 +1,6 @@
 # bashrc
-cd .dotfiles
+pwd
+cd ~/.dotfiles
 git pull origin master
 cd
 pwd

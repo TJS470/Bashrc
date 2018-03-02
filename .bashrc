@@ -1,6 +1,4 @@
 # .bashrc
-trial 1
-echo 33
 # Personal aliases
 alias bb='ssh -X tjs470@bluebear.bham.ac.uk'
 alias hydra='ssh -AXt tspankie@fs3chem.bham.ac.uk ssh -AXt tspankie@che-hydra.bham.ac.uk'

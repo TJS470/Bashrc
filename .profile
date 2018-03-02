@@ -9,7 +9,7 @@
 #umask 022
 cd .dotfiles/
 git pull origin master
-echo 3
+cd
 
 # if running bash
 if [ -n "$BASH_VERSION" ]; then

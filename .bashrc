@@ -10,6 +10,7 @@ alias qq='clear'
 alias qstat='showq'
 alias bashrc='vi ~/.bashrc'
 alias sourcebash='source ~/.bashrc'
+alias maxwell='ssh tspankie@147.188.104.177'
 
 # PS1
 export PS1="\e]0;\h [W]\a\u@\h: \W\\$ \[$(tput sgr0)\]"

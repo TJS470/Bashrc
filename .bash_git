@@ -1,3 +1,4 @@
+#!/bin/bash
 # .bashrc
 # Personal aliases
 alias bb='ssh -X tjs470@bluebear.bham.ac.uk'

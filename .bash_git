@@ -63,3 +63,10 @@ fi
  # . ~/.bash_git
 #fi
 
+#Title command
+set-title(){
+ORIG=$PS1
+TITLE="\e]2;$@\a"
+PS1=${ORIG}${TITLE}
+}
+
